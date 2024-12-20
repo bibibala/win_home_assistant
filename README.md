@@ -46,10 +46,3 @@ A3: 目前该镜像仅适用于 Windows Hyper-V 环境。如果需要在其他�
 
 ---
 
-## 更新与反馈
-如果在使用过程中遇到任何问题或有改进建议，请通过以下方式联系我们：
-- **邮箱**: support@example.com
-- **GitHub**: [项目主页](https://github.com/example/win-home-assistant)
-
-欢迎提交反馈与建议，我们将持续优化镜像体验。
-
